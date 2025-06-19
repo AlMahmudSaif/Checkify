@@ -28,11 +28,5 @@ A minimalist, responsive todo app built with React + Tailwind CSS. Add, edit, an
 
 <br />
 
-## 🔧 Installation & Running Locally
 
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/checkify.git
-cd checkify
 
